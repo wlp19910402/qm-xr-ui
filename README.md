@@ -22,3 +22,14 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+```
+npm run package
+```
+
+```
+cd qm-ui
+npm init -y
+npm adduser
+npm publish
+```
