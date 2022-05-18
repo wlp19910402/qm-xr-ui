@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import QmButton from "@/package/qm-button/index.vue";
+import QmButton from "@/packages/qm-button/index.vue";
 </script>
 
 <template>
